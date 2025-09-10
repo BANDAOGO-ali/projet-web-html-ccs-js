@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Projet 2 - Chatbot Santé</title>
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <header>
+    <h1>Chatbot pour la Santé Maternelle et Infantile</h1>
+    <p><a href="../../index.html">← Retour au portfolio</a></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Description</h2>
+      <p>
+        Ce chatbot a pour but de sensibiliser et d’informer les femmes enceintes
+        et jeunes mères sur les bonnes pratiques de santé maternelle et infantile.
+        Il répond à des questions fréquentes sur la grossesse, les soins prénatals,
+        la nutrition des enfants et rappelle les dates de vaccination.
+      </p>
+    </section>
+
+    <section>
+      <h2>Capture d’écran</h2>
+      <img src="screenshot.jpg" alt="Interface du chatbot" width="600">
+    </section>
+
+    <section>
+      <h2>Preuve (extrait de logique en JavaScript)</h2>
+      <pre><code>if (question.includes("vaccin")) {
+  return "N'oubliez pas de consulter votre calendrier de vaccination.";
+}</code></pre>
+    </section>
+  </main>
+
+  <footer>
+    <p>© BANDAOGO Ali — Projet 2</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,31 @@
+# 🌐 Portfolio Web - BANDAOGO Ali
+
+Bienvenue sur mon portfolio développé en **HTML, CSS et JavaScript**.  
+Ce site présente mes projets réalisés dans le cadre de ma formation en **Modélisation, Simulation et Calcul Scientifiques**.
+
+---
+
+## 🚀 Démo en ligne
+👉 [Voir mon portfolio](https://ton-identifiant.github.io/projet-web-html-css-js/)
+
+---
+
+## 📸 Projets intégrés
+### 🔹 Projet 1 : Analyse de Données avec SQL Server & Power BI
+- Objectif : utiliser SQL Server pour interroger une base de données
+- Visualiser les résultats avec Power BI
+- Transforme des données brutes en tableaux de bord interactifs
+
+### 🔹 Projet 2 : Chatbot Santé Maternelle & Infantile
+- Chatbot interactif pour informer sur la grossesse et la nutrition
+- Rappels de vaccination
+- Interface simple et responsive
+
+### 🔹 Projet 3 : Site Web HTML, CSS et JavaScript
+- Mini-site complet
+- Design responsive
+- Interactions en JavaScript (thème clair/sombre, bouton retour en haut, validation formulaire)
+
+---
+
+## 📂 Structure du projet
